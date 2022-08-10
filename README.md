@@ -1,2 +1,0 @@
-# c-code
-c projects
